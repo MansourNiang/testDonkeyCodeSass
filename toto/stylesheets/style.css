@@ -1,0 +1,23 @@
+/* line 3, ../sass/style.scss */
+.carre {
+  width: 150px;
+  height: 150px;
+}
+
+/* line 12, ../sass/style.scss */
+#carreVert {
+  background-color: #34C924;
+  position: absolute;
+}
+
+/* line 18, ../sass/style.scss */
+#carreBleu {
+  background-color: #77B5FE;
+  position: relative;
+}
+
+/* line 24, ../sass/style.scss */
+#carreRouge {
+  background-color: #C60800;
+  position: relative;
+}

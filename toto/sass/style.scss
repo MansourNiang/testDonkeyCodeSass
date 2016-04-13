@@ -1,0 +1,26 @@
+@import "compass/css3";
+ 
+.carre {
+  width: 150px;
+  height: 150px;
+}
+ 
+// carre vert
+
+
+#carreVert {
+	background-color: #34C924;
+	position: absolute;
+}
+ 
+// carre bleu
+#carreBleu {
+	background-color: #77B5FE;
+	position: relative;
+}
+
+// carre rouge 
+#carreRouge {
+	background-color: #C60800;
+	position: relative;
+}

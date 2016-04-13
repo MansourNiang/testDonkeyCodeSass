@@ -1,0 +1,53 @@
+body {
+  background: red;
+  width: 150px; }
+
+#global {
+  width: 900px;
+  height: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  border: 1px solid red; }
+
+header {
+  width: 898px;
+  height: 48px;
+  border: 1px solid white; }
+
+section {
+  width: 898px;
+  min-height: 500px;
+  border: 1px solid white; }
+
+footer {
+  width: 898px;
+  height: 48px;
+  border: 1px solid white;
+  text-align: center; }
+
+#carreVert {
+  width: 200px;
+  height: 200px;
+  margin-left: 80px;
+  margin-top: 50px;
+  background-color: #34C924;
+  position: absolute; }
+
+#carreBleu {
+  width: 200px;
+  height: 200px;
+  margin-left: 230px;
+  margin-top: 150px;
+  background-color: #77B5FE;
+  position: relative; }
+
+#carreRouge {
+  width: 200px;
+  height: 200px;
+  margin-left: 120px;
+  margin-top: -80px;
+  background-color: #C60800;
+  position: relative; }
+
+/*# sourceMappingURL=style.css.map */
