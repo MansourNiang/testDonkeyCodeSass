@@ -1,23 +1,73 @@
-/* line 3, ../sass/style.scss */
-.carre {
-  width: 150px;
-  height: 150px;
+/* line 1, ../sass/style.scss */
+* {
+  margin: 0px;
+  padding: 0px;
 }
 
-/* line 12, ../sass/style.scss */
+/* line 5, ../sass/style.scss */
+body {
+  background: white;
+  width: 150px;
+}
+
+/* line 9, ../sass/style.scss */
+#global {
+  width: 900px;
+  height: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  border: 1px solid white;
+}
+
+/* line 17, ../sass/style.scss */
+header {
+  width: 898px;
+  height: 48px;
+  border: 1px solid white;
+}
+
+/* line 22, ../sass/style.scss */
+section {
+  width: 898px;
+  min-height: 500px;
+  border: 1px solid white;
+}
+
+/* line 27, ../sass/style.scss */
+footer {
+  width: 898px;
+  height: 48px;
+  border: 1px solid white;
+  text-align: center;
+}
+
+/* line 33, ../sass/style.scss */
 #carreVert {
+  width: 200px;
+  height: 200px;
+  margin-left: 80px;
+  margin-top: 50px;
   background-color: #34C924;
   position: absolute;
 }
 
-/* line 18, ../sass/style.scss */
+/* line 41, ../sass/style.scss */
 #carreBleu {
+  width: 200px;
+  height: 200px;
+  margin-left: 230px;
+  margin-top: 150px;
   background-color: #77B5FE;
   position: relative;
 }
 
-/* line 24, ../sass/style.scss */
+/* line 49, ../sass/style.scss */
 #carreRouge {
+  width: 200px;
+  height: 200px;
+  margin-left: 120px;
+  margin-top: -80px;
   background-color: #C60800;
   position: relative;
 }
